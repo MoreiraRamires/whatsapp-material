@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="WhatsApp" title="" src="./assets/banner.png" />
+    <img alt="WhatsApp" title="" src=".src/assets/banner.png" />
 </h1>
 
 <h4 align="center"> 
