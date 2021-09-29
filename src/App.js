@@ -76,7 +76,7 @@ const App = ({ classes }) => (
 );
 
 const list = [
-  { id: 1, name: "Diego", text: "Lorem ipsum", image: <ImageIcon /> },
+  { id: 1, name: "Rafael", text: "Mensagem 01", image: <ImageIcon /> },
   { id: 2, name: "Robson", text: "Lorem ipsum", image: <WorkIcon /> },
   { id: 3, name: "Cleiton", text: "Lorem ipsum", image: <BeachAccessIcon /> }
 ];
@@ -87,13 +87,13 @@ const LeftContainer = ({ classes }) => (
       className={classes.rightBorder}
       avatar={
         <Avatar aria-label="Recipe" className={classes.avatar}>
-          H
+         RR
         </Avatar>
       }
     />
     <Paper className={classes.paper} elevation={0}>
       <Typography className={classes.information} variant="subheader">
-        Acesse nossa comunidade no Discord e fique por dentro das novidades!
+        Atenção!
       </Typography>
     </Paper>
     <List>

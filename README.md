@@ -1,70 +1,46 @@
-# Getting Started with Create React App
+<h1 align="center">
+    <img alt="WhatsApp" title="" src="./assets/banner.png" />
+</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h4 align="center"> 
+	Interface do WhatsApp com ReactJS e Material UI
+</h4>
 
-## Available Scripts
+<p align="center">
+	
+## 💻 Sobre o Projeto
+Neste projeto em React.JS clonamos a interface do WhatsApp.
 
-In the project directory, you can run:
+#### A aplicação foi criada seguindo as orientações contidas no blog [Integração do Material UI com ReactJS](https://blog.rocketseat.com.br/react-material-ui/) disponíbilizada pela Rocketseat.
 
-### `yarn start`
+## 🚀 Como executar o projeto
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+1. Copie ou clone os arquivos deste repositório para uma pasta local.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+2. Acesse a pasta local do projeto através de um terminal e faça a instalação das dependências usando o comando:
 
-### `yarn test`
+```sh
+$ npm install
+```
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+1. Ainda na pasta local do projeto execute o comando:
 
-### `yarn build`
+```sh
+$ npm start
+```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+A aplicação é geralmente iniciada no endereço: `http://localhost:3000` e utiliza dados estáticos que estão em um array no arquivo `api.js` na pasta `services`.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 😯 Como contribuir para o projeto
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+1. Faça um **fork** do projeto.
+2. Crie uma nova branch com as suas alterações: `git checkout -b my-feature`
+3. Salve as alterações e crie uma mensagem de commit contando o que você fez: `git commit -m "feature: My new feature"`
+4. Envie as suas alterações: `git push origin my-feature`
+   > Caso tenha alguma dúvida confira este [guia de como contribuir no GitHub](https://github.com/firstcontributions/first-contributions)
 
-### `yarn eject`
+## 📝 Licença
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+Este projeto esta sobe a licença MIT.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Feito com ❤️ por Rafael Ramires 👋🏽 [Entre em contato!](https://www.linkedin.com/in/rafael-ramires-791aa378/)
